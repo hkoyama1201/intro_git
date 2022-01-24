@@ -1,5 +1,7 @@
 Hello, git.
 
 <Command>
-* git add
-* git commit 
+- git add
+- git rm
+- git commit 
+- git status
