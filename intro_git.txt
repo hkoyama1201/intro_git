@@ -5,3 +5,6 @@ Hello, git.
 - git rm
 - git commit 
 - git status
+- git diff
+- git diff HEAD
+- git log
